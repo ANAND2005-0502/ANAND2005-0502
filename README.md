@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Anand MISHRA 👋</h1>
+<h1 align="center">Hey there, I'm Anand Mishra 👋</h1>
 
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
 
