@@ -66,6 +66,15 @@ A weather application using an API to display weather information for different 
 An interactive quiz application built for practicing JavaScript logic.
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ANAND2005-0502&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANAND2005-0502&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANAND2005-0502&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📚 Currently Learning
 
