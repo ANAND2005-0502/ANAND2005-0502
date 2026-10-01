@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANAND2005-0502&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ANAND2005-0502&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
